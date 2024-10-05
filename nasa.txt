@@ -1,0 +1,24 @@
+Goal: Utilize artificial neural networks (ANNs) to classify NEOs as "hazardous" or "non-hazardous." This classification helps in assessing potential threats to Earth from celestial bodies.This setup also provides an interactive 3D visualization of Near-Earth Objects, enhancing understanding and engagement. 
+
+Predictive Modeling of Near-Earth Objects using Artificial Neural Networks," tackles a vital issue in planetary defense: identifying hazardous Near-Earth Objects (NEOs) using machine learning techniques. Here’s a breakdown of your project’s components and significance
+
+
+Importance of NEOs
+Definition: NEOs are asteroids and comets that come close to Earth's orbit. There are over 20,000 known NEOs among the hundreds of thousands of asteroids in our solar system.
+Risk Assessment: Understanding and monitoring NEOs is crucial, as their potential impact could range from minimal to catastrophic. Hence, effective tracking and predictive modeling are essential for planetary defense strategies.
+
+
+Dataset
+Features: The dataset comprises various attributes, such as estimated diameter, relative velocity, miss distance, and absolute magnitude of NEOs, which are critical for predicting their hazardous nature.
+Sources: The dataset is available through platforms like Kaggle and NASA's API, which provide access to real-time data on NEOs.
+
+
+Performance Metrics:
+Accuracy: Approximately 87.92%, indicating a high correct classification rate.
+Precision: 81.16%, showing the model’s effectiveness in minimizing false positives.
+Recall: 98.76%, emphasizing the model's capability to detect most actual hazardous NEOs.
+Specificity: 77.09%, reflecting the ability to identify non-hazardous NEOs correctly.
+F1 Score: 89.10%, balancing precision and recall, indicating a robust classification performance.
+
+
+The ANN-based model demonstrates promising results in predicting the hazardous nature of NEOs, making it a useful tool in the ongoing efforts to safeguard our planet. The insights gained from the model can aid in prioritizing resources for monitoring and mitigation of potential threats.
